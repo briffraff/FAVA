@@ -1,0 +1,77 @@
+#info_btn {
+    border:1px solid rgb(150,150,150);
+    border-radius: 5px;
+    color: rgb(200, 200, 200);
+    padding-right:3px;
+}
+
+#info_btn:hover {
+    border: 1px solid rgb(255,255,255);
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+}
+
+#info_btn:pressed {
+    border: 2px solid rgb(82, 91, 169);
+}
+
+#refresh_btn,#update_btn {
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 3px;
+    border-image: url(:/icon_update_refresh/images/refresh.png) 0 0 0 0 stretch stretch;
+    background-repeat: no-repeat;  
+    background-position: center;
+}
+
+#refresh_btn:hover { 
+    border: 1px solid rgb(255,255,255);
+    border-image: url(:/icon_update_refresh/images/refresh_hover.png) 0 0 0 0 stretch stretch;
+}
+
+#refresh_btn:pressed {
+    border-image: url(:/icon_update_refresh/images/refresh_pressed.png) 0 0 0 0 stretch stretch;
+    border: 0px solid rgb(43, 39, 70);
+    border-radius: 9px;
+}
+
+#update_btn {
+    padding-left: 25px;
+    border-image: url(:/icon_update_refresh/images/update.png) 0 0 0 0 stretch stretch;
+}
+
+#update_btn:hover {
+    border-image: url(:/icon_update_refresh/images/update_hover.png) 0 0 0 0 stretch stretch;
+}
+
+#update_btn:pressed {
+    border-image: url(:/icon_update_refresh/images/update_pressed.png) 0 0 0 0 stretch stretch;
+}
+
+#frame_grip_size {
+    border-image: url(:/icon_grip/images/cil-size-grip.png) 0 0 0 0 stretch stretch;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 12px;
+    height: 12px;
+}
+
+#frame_grip_size:hover {
+    background-color : rgb(100,100,100);
+    color: rgb(200,200,200);
+}
+    
+#frame_grip_size:pressed {
+    background-color : rgb(85,85,85);
+    color: rgb(200,200,200);
+}
+
+#fava_logo {
+    border-radius: 5px;
+    border-image: url(:/fava_logo/images/fava_logo_.png) 0 0 0 0 stretch stretch;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#menu_icons {
+    padding-left: 9px;
+}

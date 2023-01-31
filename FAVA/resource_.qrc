@@ -1,0 +1,63 @@
+<RCC>
+  <qresource prefix="icon_signal">
+    <file>images/signal.png</file>
+  </qresource>
+  <qresource prefix="icon_update_refresh">
+    <file>images/update.png</file>
+    <file>images/update_hover.png</file>
+    <file>images/update_pressed.png</file>
+    <file>images/refresh.png</file>
+    <file>images/refresh_hover.png</file>
+    <file>images/refresh_pressed.png</file>
+  </qresource>
+  <qresource prefix="icon_uvprint">
+    <file>images/uvprinter.png</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>fonts/arialbd.ttf</file>
+    <file>fonts/arial.ttf</file>
+    <file>fonts/bahnschrift.ttf</file>
+  </qresource>
+  <qresource prefix="icon_grip">
+    <file>images/cil-size-grip.png</file>
+    <file>images/cil-size-grip_blue.png</file>
+  </qresource>
+  <qresource prefix="window">
+    <file>images/minimize.png</file>
+  </qresource>
+  <qresource prefix="icon_shell">
+    <file>images/shell.png</file>
+  </qresource>
+  <qresource prefix="icon_apps">
+    <file>images/apps.png</file>
+  </qresource>
+  <qresource prefix="icon_materials">
+    <file>images/materials.png</file>
+  </qresource>
+  <qresource prefix="icon_thumbrender">
+    <file>images/t_render.png</file>
+  </qresource>
+  <qresource prefix="icon_createfolder">
+    <file>images/folder_market.png</file>
+  </qresource>
+  <qresource prefix="fava_logo">
+    <file>images/icon.png</file>
+    <file>images/fava_logo_.png</file>
+  </qresource>
+  <qresource prefix="icon_settings">
+    <file>images/settings.png</file>
+    <file>images/titaniumbackup.png</file>
+  </qresource>
+  <qresource prefix="icon_adminpanel">
+    <file>images/adminpanel.png</file>
+  </qresource>
+  <qresource prefix="icon_importer">
+    <file>images/importer.png</file>
+  </qresource>
+  <qresource prefix="icon_exporter">
+    <file>images/exporter.png</file>
+  </qresource>
+  <qresource prefix="icon_sandwitch">
+    <file>images/sandwitch.png</file>
+  </qresource>
+</RCC>

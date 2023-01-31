@@ -1,0 +1,2 @@
+pyside2-uic FAVA-ui.ui -o fava_ui.py
+pyside2-rcc -o fava_resource_rc.py resource_.qrc
